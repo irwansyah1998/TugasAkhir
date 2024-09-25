@@ -56,11 +56,7 @@ Impor file tersebut ke MySQL Anda melalui phpMyAdmin atau command line:
 mysql -u root -p nama_database < path/to/sql/file.sql
 ```
 
-Set konfigurasi base URL di
-
-```bash
-application/config/config.php:
-```
+Set konfigurasi base URL di application/config/config.php:
 
 ```bash
 $config['base_url'] = 'http://localhost/sistem-konfeksi/';
