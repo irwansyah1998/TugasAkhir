@@ -25,7 +25,7 @@ Clone repositori ini:
 
 
 ```bash
-git clone https://github.com/username/sistem-konfeksi.git
+git clone https://github.com/irwansyah1998/TugasAkhir.git
 ```
 
 Pindah ke direktori proyek:
