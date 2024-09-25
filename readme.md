@@ -5,17 +5,17 @@
 Aplikasi Sistem Pengelola Data di Perusahaan Konfeksi adalah aplikasi berbasis web yang dibangun dengan CodeIgniter 3. Aplikasi ini dirancang untuk memudahkan perusahaan konfeksi dalam mengelola berbagai aspek operasional, seperti stok, pemesanan, produksi, dan distribusi produk. Dengan antarmuka yang sederhana dan fungsional, aplikasi ini menawarkan solusi pengelolaan data yang efektif dan efisien.
 
 ## Fitur Utama
-> Manajemen Produk: Mengelola stok bahan baku dan produk jadi, dengan fitur pemantauan ketersediaan.
-> Pengelolaan Pesanan: Melacak pesanan pelanggan dan status produksi pesanan.
-> Manajemen Produksi: Memantau jalannya proses produksi dari awal hingga akhir.
-> Distribusi Produk: Mengelola informasi pengiriman produk ke pelanggan.
-> Laporan: Membuat laporan operasional yang terstruktur seperti laporan stok, penjualan, dan produksi.
-> Teknologi yang Digunakan
-> Framework: CodeIgniter 3
-> Bahasa Pemrograman: PHP, HTML, CSS, JavaScript
-> Database: MySQL
-> Frontend Framework: Admin LTE
-> Server Requirements: Apache/Nginx, PHP 5.6 atau lebih tinggi, MySQL 5.5 atau lebih tinggi
+> - Manajemen Produk: Mengelola stok bahan baku dan produk jadi, dengan fitur pemantauan ketersediaan.
+> - Pengelolaan Pesanan: Melacak pesanan pelanggan dan status produksi pesanan.
+> - Manajemen Produksi: Memantau jalannya proses produksi dari awal hingga akhir.
+> - Distribusi Produk: Mengelola informasi pengiriman produk ke pelanggan.
+> - Laporan: Membuat laporan operasional yang terstruktur seperti laporan stok, penjualan, dan produksi.
+> - Teknologi yang Digunakan
+> - Framework: CodeIgniter 3
+> - Bahasa Pemrograman: PHP, HTML, CSS, JavaScript
+> - Database: MySQL
+> - Frontend Framework: Admin LTE
+> - Server Requirements: Apache/Nginx, PHP 5.6 atau lebih tinggi, MySQL 5.5 atau lebih tinggi
 
 ## Instalasi
 
