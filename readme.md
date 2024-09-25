@@ -50,6 +50,7 @@ $db['default'] = array(
 Impor database SQL:
 
 Temukan file SQL yang tersedia atau anda bisa mendapakannya di [Patreon][1].
+
 Impor file tersebut ke MySQL Anda melalui phpMyAdmin atau command line:
 
 ```bash
@@ -71,4 +72,4 @@ http://localhost/sistem-konfeksi/
 ## Penggunaan
 Setelah instalasi berhasil, Anda dapat login ke aplikasi menggunakan akun admin. Dashboard utama akan menampilkan berbagai menu untuk pengelolaan stok, pemesanan, produksi, dan distribusi produk.
 
-[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Indra Gunawan Ardiansyah"
+[1]: <https://www.patreon.com/irwansyah199> "Indra Gunawan Ardiansyah"
