@@ -11,11 +11,11 @@
 >> - Distribusi Produk: Mengelola informasi pengiriman produk ke pelanggan.
 >> - Laporan: Membuat laporan operasional yang terstruktur seperti laporan stok, penjualan, dan produksi.
 >> - Teknologi yang Digunakan
->> - Framework: CodeIgniter 3
+>> - Framework: CodeIgniter 3.1.9
 >> - Bahasa Pemrograman: PHP, HTML, CSS, JavaScript
 >> - Database: MySQL
 >> - Frontend Framework: Admin LTE
->> - Server Requirements: Apache/Nginx, PHP 5.6 atau lebih tinggi, MySQL 5.5 atau lebih tinggi
+>> - Server Requirements: Apache/Nginx, PHP 7 atau lebih tinggi, MySQL 5.5 atau lebih tinggi
 
 ## Instalasi
 
@@ -66,7 +66,7 @@ $config['base_url'] = 'http://localhost/sistem-konfeksi/';
 Jalankan aplikasi di browser: Buka browser Anda dan akses:
 
 ```bash
-http://localhost/sistem-konfeksi/
+http://localhost/TugasAkhir/
 ```
 
 ## Penggunaan
